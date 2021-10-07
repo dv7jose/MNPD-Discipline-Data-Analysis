@@ -12,7 +12,10 @@ APM Reports and WPLN requested more than a decade's worth of discipline data fro
 
 [Here](https://github.com/APM-Reports/nashville-discipline/blob/master/analysis/Discipline-Data-Analysis.ipynb) you can find our combined analysis and overall conclusion for the investigation.
 
-My individual analysis on roster data can be found [here](https://github.com/dv7jose/MNPD-Discipline-Data-Analysis/blob/main/Roster_Analysis_Jose.ipynb)
-My individual analysis on discipline data can be found [here](https://github.com/dv7jose/MNPD-Discipline-Data-Analysis/blob/main/Discipline_Analysis_Jose.ipynb)
+My individual analysis on roster data can be found [here](https://github.com/dv7jose/MNPD-Discipline-Data-Analysis/blob/main/Roster_Analysis_Jose.ipynb).
+
+My individual analysis on discipline data can be found [here](https://github.com/dv7jose/MNPD-Discipline-Data-Analysis/blob/main/Discipline_Analysis_Jose.ipynb).
 
 I was also tasked with fact checking his work, given that it's an important part of both data and journalism work. [Here](https://github.com/dv7jose/MNPD-Discipline-Data-Analysis/blob/main/Fact_Check_Will.ipynb) is my fact checking analysis of his work.
+
+In all the analysis and fact-checking, I used pandas and altair to filter and categorize data to eventually make descriptive and exploratory findings.
