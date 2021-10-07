@@ -1,4 +1,7 @@
 # MNPD Discipline Data Analysis
+[Story](https://wpln.org/programs/wpln-news-investigates/behind-the-blue-wall/): Behind The Blue Wall
+Reporters: Will Craft (wcraft@apmreports.org), José Martínez (martinez307jose@gmail.com), Sam Max (smax@wpln.org)
+
 
 Towards the end of my internship, I helped my supervisor clean and analyze roster and discipline data that we received from the MNPD. As my supervisor, Will Craft, puts it:
 
